@@ -1,0 +1,42 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+    background-image: url(/assets/bg.jpg);
+}
+
+h1 {
+    margin: 0%;
+}
+
+.top {
+    text-align: center;
+    background-color: rgb(220, 225, 229);
+    background-size: 50px;
+}
+
+.header-color {
+    color: blueviolet;
+    font-size: 35px;
+}
+
+.awp {
+    display: flex;
+}
+
+.half-width {
+    background-color: rgb(244, 248, 246);
+    color:rgb(36, 23, 23);
+    width: 40%;
+    margin: 5%;
+    border-radius: 10px;
+}
+.skin-img {
+    background-image: url(/assets/awp-bg.png);
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.weapon-pic {
+    
+}
